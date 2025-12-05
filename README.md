@@ -2,19 +2,57 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+🌼 Pixel-Peace
+A Retro 90s Anxiety-Relief Game Website
 
-This contains everything you need to run your app locally.
+Pixel-peace is a web-based, 90s-inspired pixel-art game designed to help users reduce anxiety through soothing interactions, grounding techniques, and nostalgic aesthetics.
+It blends the charm of retro gaming with modern psychological calming practices to create a simple, cozy, anxiety-friendly digital space.
 
-View your app in AI Studio: https://ai.studio/apps/temp/1
+🎮 About the Project
 
-## Run Locally
+Pixel-Peace aims to give users a gentle moment of peace. Instead of overwhelming interfaces, timers, or high-stimulus visuals, the app recreates the simplicity of old-school games—low pressure, comforting, and slow-paced.
 
-**Prerequisites:**  Node.js
+The user explores a tiny pixel world, interacts with calming objects, practices breathing exercises, and completes grounding quests. Every mechanic is intentionally soft, encouraging relaxation through play.
 
+✨ Features
+🕹️ Retro 90s Aesthetic
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Pixel-art graphics
+
+CRT scanline/soft-glow effects
+
+Old-school dialog windows & menu transitions
+
+🌬️ Anxiety-Relief Gameplay
+
+Animated breathing guide
+
+Calm item collection (plants, lanterns, creatures)
+
+A “slow game loop” designed to ease mental tension
+
+🌱 Cozy Mini-World
+
+Explore a tiny, peaceful pixel landscape
+
+Meet friendly characters
+
+Collect “Calm Points” for performing relaxation tasks
+
+Unlock calming scenes and animations
+
+📱 Fully Responsive
+
+Works on mobile and desktop
+
+Retro layout scales without losing pixel charm
+
+🛠️ Tech Stack
+
+HTML5 — structure & game layout
+
+CSS / Tailwind (optional) — retro UI, pixel art styles, CRT filters
+
+JavaScript — game interactions, animations, logic
+
+Optional: WebAudio API for chiptune FX
