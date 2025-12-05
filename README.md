@@ -50,5 +50,3 @@ HTML5 — structure & game layout
 CSS / Tailwind (optional) — retro UI, pixel art styles, CRT filters
 
 JavaScript — game interactions, animations, logic
-
-Optional: WebAudio API for chiptune FX
