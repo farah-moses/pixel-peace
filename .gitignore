@@ -1,0 +1,6 @@
+﻿node_modules/
+.vscode/
+.vite/
+dist/
+build/[n.env](http://_vscodecontentref_/6)n.env.local[n.env.*](http://_vscodecontentref_/7)n.DS_Store
+*.log
